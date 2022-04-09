@@ -1,0 +1,19 @@
+{
+    "name": "rostami/ticket",
+    "description": "this package create ticket system in a blink of an eye.",
+    "type": "laravel-package",
+    "autoload": {
+        "psr-4": {
+            "Rostami\\Ticket\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Reza Rostaminikoo",
+            "email": "RezaRostamiNikoo@gmail.com"
+        }
+    ],
+    "require": {
+        "mews/purifier": "^3.3"
+    }
+}
